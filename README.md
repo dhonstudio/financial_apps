@@ -52,3 +52,6 @@
 
 ### Not Doing
 --
+
+## More Wiki
+[Financial Apps Wiki](https://github.com/dhonstudio/financial_apps/wiki) 
